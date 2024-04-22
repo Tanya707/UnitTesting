@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D80794C-3137-46EE-97D1-A0A4D21CF4ED}|MockTests\\MockTests.csproj|c:\\users\\tatsiana_barbitskaya\\source\\repos\\unittesting\\mocktests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D80794C-3137-46EE-97D1-A0A4D21CF4ED}|MockTests\\MockTests.csproj|solutionrelative:mocktests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|c:\\users\\tatsiana_barbitskaya\\source\\repos\\unittesting\\dotnetunittesting\\idiscountutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|solutionrelative:dotnetunittesting\\idiscountutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|c:\\users\\tatsiana_barbitskaya\\source\\repos\\unittesting\\dotnetunittesting\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|solutionrelative:dotnetunittesting\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|c:\\users\\tatsiana_barbitskaya\\source\\repos\\unittesting\\dotnetunittesting\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|solutionrelative:dotnetunittesting\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|c:\\users\\tatsiana_barbitskaya\\source\\repos\\unittesting\\dotnetunittesting\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|solutionrelative:dotnetunittesting\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C5C5C8-DF2B-420D-9E3D-70453F7CCF83}|TestProject\\TestProject.csproj|c:\\users\\tatsiana_barbitskaya\\source\\repos\\unittesting\\testproject\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C5C5C8-DF2B-420D-9E3D-70453F7CCF83}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|c:\\users\\tatsiana_barbitskaya\\source\\repos\\unittesting\\dotnetunittesting\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|solutionrelative:dotnetunittesting\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|c:\\users\\tatsiana_barbitskaya\\source\\repos\\unittesting\\dotnetunittesting\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865FB68B-5CF0-43C6-B2AB-65354CA8BCAD}|DotnetUnitTesting\\DotnetUnitTesting.csproj|solutionrelative:dotnetunittesting\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\MockTests\\UnitTest.cs",
+              "RelativeDocumentMoniker": "MockTests\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\MockTests\\UnitTest.cs",
+              "RelativeToolTip": "MockTests\\UnitTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:23:40.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDiscountUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\IDiscountUtility.cs",
+              "RelativeDocumentMoniker": "DotnetUnitTesting\\IDiscountUtility.cs",
+              "ToolTip": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\IDiscountUtility.cs",
+              "RelativeToolTip": "DotnetUnitTesting\\IDiscountUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:49:10.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\TestProject\\UnitTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\TestProject\\UnitTest.cs",
+              "RelativeToolTip": "TestProject\\UnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:04:54.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\UserAccount.cs",
+              "RelativeDocumentMoniker": "DotnetUnitTesting\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\UserAccount.cs",
+              "RelativeToolTip": "DotnetUnitTesting\\UserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:43:22.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "DotnetUnitTesting\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\ShoppingCart.cs",
+              "RelativeToolTip": "DotnetUnitTesting\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:43:15.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "DotnetUnitTesting\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\ProductNotFoundException.cs",
+              "RelativeToolTip": "DotnetUnitTesting\\ProductNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:43:10.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\Product.cs",
+              "RelativeDocumentMoniker": "DotnetUnitTesting\\Product.cs",
+              "ToolTip": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\Product.cs",
+              "RelativeToolTip": "DotnetUnitTesting\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:43:06.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\OrderService.cs",
+              "RelativeDocumentMoniker": "DotnetUnitTesting\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\OrderService.cs",
+              "RelativeToolTip": "DotnetUnitTesting\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:43:03.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

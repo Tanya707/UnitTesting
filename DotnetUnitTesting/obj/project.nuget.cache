@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0OIUp4i2j7pxY/rB7oIXGZgcSPZw6pk9m2GMnM5JNkw2aksgSdVWSe3zcskgH8fqCpW76WQlSSb6zYHQR+RYaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tatsiana_Barbitskaya\\source\\repos\\UnitTesting\\DotnetUnitTesting\\DotnetUnitTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tatsiana_Barbitskaya\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Tatsiana_Barbitskaya\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\Tatsiana_Barbitskaya\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\Tatsiana_Barbitskaya\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
